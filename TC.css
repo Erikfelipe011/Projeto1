@@ -1,0 +1,18 @@
+
+body{background-image:url(https://media-exp1.licdn.com/dms/image/C4E1BAQHvNXtQ0XnBKg/company-background_10000/0/1554995204062?e=2159024400&v=beta&t=0O4danvqboxBxIMwDeP6DDMB7bON7WgU2NuaXEEDXRQ);
+background-repeat: no-repeat;
+background-size:cover;}
+h2{text-align: center;color: white;}
+#nome{color: white;}
+#senha{color: white;}
+#email{color: white;}
+#CPF{color: white;}
+#tel{color: white;}
+#cel{color: white;}
+#ende{color: white;}
+#Num{color: white;}
+#comp{color: white;}
+#bairro{color: white;}
+#Cidade{color: white;}
+#Estado{color: white;}
+.linhas{display: flex;flex-flow: row wrap; justify-content: space-between;}
